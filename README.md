@@ -1,4 +1,4 @@
-# Talk-A-Tive
+#  Chat-Around
 
 Talk-a-tive is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+     https://github.com/vedant2737/Chat-Around.git
 ```
 
 Go to the project directory
